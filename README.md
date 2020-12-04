@@ -27,3 +27,6 @@ OEBPS/nav.xthml
 ```
 OEBPS/Text/nav.xhtml
 ```
+
+### Diff
+![Sigil vs. Pandoc](sigil%20vs%20pandoc.png)
